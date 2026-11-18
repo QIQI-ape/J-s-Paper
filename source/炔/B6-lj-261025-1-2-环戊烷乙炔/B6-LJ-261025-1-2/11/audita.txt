@@ -1,0 +1,19 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= public
+$$ D:\Data/B6-LJ-261025-1-2/11/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2026-10-26 20:40:17.949 +0800>,<public>,<EP-10038864>,<go>,<TOPSPIN 3.2>,
+      <created by zg
+	started at 2026-10-26 20:39:29.746 +0800,
+	POWCHK enabled, PULCHK disabled,
+       terminated by command 'halt'
+       configuration hash MD5:
+       97 65 B7 C9 07 4D 21 82 B3 54 17 C0 C0 DB 24 EC
+       data hash MD5: 64K
+       9A 9C D5 1F B0 D9 4F 8B B5 2A 0B 5C 88 05 C4 EB>)
+##END=
+
+$$ hash MD5
+$$ F1 49 D0 30 CF 6F EF 3F D7 24 50 50 26 C6 46 A6

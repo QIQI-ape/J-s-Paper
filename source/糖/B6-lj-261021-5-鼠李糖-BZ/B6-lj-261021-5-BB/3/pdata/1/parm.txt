@@ -1,0 +1,50 @@
+
+Current Data Parameters
+NAME     B6-lj-261021-5-BB              
+EXPNO                 3              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20261023              
+Time              12.54              
+INSTRUM           spect              
+PROBHD   5 mm CPDCH 13C              
+PULPROG          zgpg30              
+TD                62496              
+SOLVENT           CDCl3              
+NS                   12              
+DS                    4              
+SWH           31250.000 Hz           
+FIDRES         0.500032 Hz           
+AQ            0.9999360 sec          
+RG               189.92              
+DW               16.000 usec         
+DE                18.00 usec         
+TE                298.0 K            
+D1           2.50000000 sec          
+D11          0.03000000 sec          
+TD0                   1              
+
+======== CHANNEL f1 ========
+SFO1        125.7716224 MHz          
+NUC1                13C              
+P1                 9.50 usec         
+PLW1        24.50000000 W            
+
+======== CHANNEL f2 ========
+SFO2        500.1320005 MHz          
+NUC2                 1H              
+CPDPRG[2        waltz16              
+PCPD2             70.00 usec         
+PLW2        13.80000019 W            
+PLW12        0.28163001 W            
+PLW13        0.13800000 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          125.7577890 MHz          
+WDW                  EM              
+SSB      0              
+LB                 2.00 Hz           
+GB       0              
+PC                 1.40              

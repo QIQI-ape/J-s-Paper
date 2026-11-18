@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 258	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2026-10-19 13:33:37.616 +0800  nmr@EP-10023188
+$$ E:/data/B6-lj-261015-1-M/9/acqu2s
+$$ process C:\Bruker\TopSpin3.5pl7\prog\mod\go4.exe
+##$ACQT0= 0
+##$BF1= 500.13
+##$FnMODE= 5
+##$NUC1= <1H>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 256
+##$O1= 3500.91
+##$ProjAngle= 0
+##$SFO1= 500.13350091
+##$SW= 15.9957291112151
+##$SW_h= 8000
+##$TD= 256
+##END=

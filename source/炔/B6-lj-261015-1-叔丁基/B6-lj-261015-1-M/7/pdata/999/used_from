@@ -1,0 +1,18 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2026-10-19 13:57:58.738 +0800  nmr@EP-10023188
+$$ E:/data/B6-lj-261015-1-M/7/pdata/999/used_from
+$$ process C:\Bruker\TopSpin3.5pl7\prog\mod\mvrow.exe
+##$CUREXP= <row>
+##$DATPATH= <E:/data>
+##$DETAILS= <negative projection of rows 250 to 341>
+##$EXPNO= 7
+##$NAME= <B6-lj-261015-1-M>
+##$PROCNO= 1
+##$PROCNO2= 250
+##$PROCNO3= 341
+##END=

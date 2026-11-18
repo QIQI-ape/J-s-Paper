@@ -1,0 +1,87 @@
+##TITLE= Audit trail, TopSpin 4.5.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= root
+$$ D:/data/B6-lj-261025-6-R-2-BB/53/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2026-10-28T05:00:58.376+0000>,<EP-20250425\root>,<EP-20250425>,<go4>,<TopSpin 4.5.0>,
+      <acquisition in progress>)
+(   2,<2026-10-28T13:02:48.024+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = 83.12813 PHC1 = 0 SI = 32K
+       fid double data hash MD5: 60240
+       A9 BE 61 3E 20 6E AC BE 66 67 90 6F C4 62 E5 D6
+       data hash MD5: 32K
+       AB FE 1D 27 AD F2 72 F0 EF A2 42 6E 2F 5D 7A C8>)
+(   3,<2026-10-28T13:02:49.845+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <apks
+       data hash MD5: 32K
+       ED BD 46 7A 79 9F 42 11 F9 F1 52 E5 DA D8 BF ED>)
+(   4,<2026-10-28T13:02:50.415+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <abs n ABSG = 5
+       data hash MD5: 32K
+       DC 43 0A 3E 99 98 EA 8B 5C 56 E2 3B A8 AF 86 2B>)
+(   5,<2026-10-28T13:02:53.008+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <apks
+       data hash MD5: 32K
+       3F 3C 84 FF 58 AD 79 1D 6B 58 A1 E4 96 4A B8 6D>)
+(   6,<2026-10-28T13:02:53.597+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <abs n ABSG = 5
+       data hash MD5: 32K
+       86 F6 64 38 C4 77 CB 26 77 DC 9C 31 C8 98 E6 8B>)
+(   7,<2026-10-28T13:03:06.407+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <pk fgphup PHC0 = 35.59227 PHC1 = -56.25
+       data hash MD5: 32K
+       B8 48 A9 54 32 FA E2 05 C1 0C 9A 9E A6 22 D3 19>)
+(   8,<2026-10-28T13:03:07.108+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = 168.5253 PHC1 = -138.2265 SI = 32K
+       fid double data hash MD5: 60240
+       A9 BE 61 3E 20 6E AC BE 66 67 90 6F C4 62 E5 D6
+       data hash MD5: 32K
+       36 96 C1 93 C1 10 14 85 90 4D 3A EC 00 11 7A FE>)
+(   9,<2026-10-28T13:03:07.786+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <abs n ABSG = 5
+       data hash MD5: 32K
+       3D 88 AC 2C 83 7B 94 F1 60 65 DF 2B B5 9F 18 B2>)
+(  10,<2026-10-28T13:04:21.335+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = 168.5253 PHC1 = -138.2265 SI = 32K
+       fid double data hash MD5: 60240
+       C4 19 15 51 F9 A0 C2 D2 19 26 C9 2E AC 28 21 8E
+       data hash MD5: 32K
+       4C 70 7F C8 35 E6 C9 3A 89 59 AB 9E E8 B1 71 0C>)
+(  11,<2026-10-28T13:04:22.241+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <abs n ABSG = 5
+       data hash MD5: 32K
+       EB 70 EB 99 86 9C 51 AC FC 42 1A CC BC 9B 99 43>)
+(  12,<2026-10-28T13:04:47.534+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <pk fgphup PHC0 = 31.24906 PHC1 = -47.45
+       data hash MD5: 32K
+       2D D4 B2 8F 3E 1B BB 62 9F 27 3C CD 56 5C 7A 02>)
+(  13,<2026-10-28T13:04:48.269+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = 199.7743 PHC1 = -185.6765 SI = 32K
+       fid double data hash MD5: 60240
+       C4 19 15 51 F9 A0 C2 D2 19 26 C9 2E AC 28 21 8E
+       data hash MD5: 32K
+       6E 94 25 65 79 E7 FD 20 79 EE 61 16 A6 35 B5 F1>)
+(  14,<2026-10-28T13:04:48.970+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <abs n ABSG = 5
+       data hash MD5: 32K
+       2E 47 F5 D5 15 9B B4 77 B5 60 E6 1C 74 F0 15 52>)
+(  15,<2026-10-28T13:08:57.046+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = 199.7743 PHC1 = -185.6765 SI = 32K
+       fid double data hash MD5: 60240
+       D2 80 25 40 85 36 43 84 C8 97 67 15 40 D5 7E 91
+       data hash MD5: 32K
+       C6 3A 25 0B 56 7D DC AA 35 8E 62 40 A6 37 BF B0>)
+(  16,<2026-10-28T13:08:57.974+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <abs n ABSG = 5
+       data hash MD5: 32K
+       71 2A 8C 32 14 F4 0A 18 BE E4 F5 0C 7A 7C 56 6B>)
+##END=
+
+$$ hash MD5
+$$ FC 50 47 98 58 FC D9 B5 A2 26 B8 AF 1A 40 B2 A8

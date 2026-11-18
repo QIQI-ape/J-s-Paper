@@ -1,0 +1,46 @@
+##TITLE= Audit trail, TopSpin 4.5.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= root
+$$ D:/data/B6-lj-261018-4-2/51/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2026-10-20T04:17:18.582+0000>,<EP-20250425\root>,<EP-20250425>,<go4>,<TopSpin 4.5.0>,
+      <acquisition in progress>)
+$$ D:/data/B6-lj-261018-4-2/51/audita.txt
+(   2,<2026-10-20T04:17:55.135+0000>,<EP-20250425\root>,<EP-20250425>,<go4>,<TopSpin 4.5.0>,
+      <created by zg on 'Avance' (EP-20250425) by user 'EP-20250425\root'
+       on data set with UUID '8a408835-beb0-4829-b949-a96f9bb2b267'
+       started at 2026-10-20 04:17:18.581 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2026-10-20 04:17:55.134 +0000
+       configuration hash MD5:
+       E3 A3 E1 D9 12 7D 0D B4 37 9B 6C 25 57 79 D8 19
+       double data hash MD5: 64K
+       41 B9 F5 8C 21 B9 45 AA 14 CA F0 6B 3D 60 E8 57>)
+(   3,<2026-10-20T12:17:55.593+0800>,<root>,<EP-20250425>,<xwish3>,<TopSpin 4.5.0>,
+      <ICON-NMR User ID: nmr
+       double data hash MD5: 64K
+       41 B9 F5 8C 21 B9 45 AA 14 CA F0 6B 3D 60 E8 57>)
+(   4,<2026-10-20T13:00:31.117+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <Start of raw data processing
+       em LB = 0.3 SI = 64K
+       fid double data hash MD5: 64K
+       41 B9 F5 8C 21 B9 45 AA 14 CA F0 6B 3D 60 E8 57
+       data hash MD5: 64K
+       06 36 87 34 08 66 0D AA 16 13 91 E5 12 8D 68 CF>)
+$$ D:/data/B6-lj-261018-4-2/51/pdata/1/auditp.txt
+(   5,<2026-10-20T13:00:31.169+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <ft FT_mod = 6 PKNL = 1 SI = 64K
+       data hash MD5: 64K
+       64 BF AB 3D 4A 0C 01 8D 52 56 E5 BF EF 0B 3C 54>)
+(   6,<2026-10-20T13:00:31.329+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <apk
+       data hash MD5: 64K
+       83 A9 D8 1A E7 1D 53 C7 AC 87 5E AB BE DD D6 61>)
+(   7,<2026-10-20T13:00:31.399+0800>,<root>,<EP-20250425>,<proc1d>,<TopSpin 4.5.0>,
+      <abs n ABSG = 5
+       data hash MD5: 64K
+       3B E1 FA 40 EA E9 95 B0 41 31 61 9A 44 AB 93 33>)
+##END=
+
+$$ hash MD5
+$$ 06 07 4D 40 A9 71 75 8F B5 F0 05 A5 05 49 23 2C

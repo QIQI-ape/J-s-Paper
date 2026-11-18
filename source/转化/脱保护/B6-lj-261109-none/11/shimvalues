@@ -1,0 +1,65 @@
+# Mon Nov 09 21:00:26 2026
+#$$PROBEID=1
+#$$PROBEINFO=5 mm PADUL 13C-1H/D Z-GRD Z108621/0025
+#$$PICSINFO=Z108621_0025_01.par
+#$$SHIMID=313232
+#
+# Active Shim Gradients
+#
+Z           		-2176           
+Z2          		-1864           
+Z3          		-1326           
+Z4          		-9076           
+Z5          		-5507           
+Z6          		5253            
+X           		-2871           
+XZ          		23499           
+XZ2         		9958            
+XZ3         		-3892           
+Y           		-4528           
+YZ          		-2488           
+YZ2         		8929            
+YZ3         		680             
+XY          		29622           
+XYZ         		4420            
+(X2-Y2)     		162             
+(X2-Y2)Z    		-6142           
+X3          		8804            
+Y3          		-2608           
+#
+# Lock Parameter
+#
+FIELD		-4566.543
+LOCKPHASE		168.600 
+LOCKPOWER		-20.000 
+LOCKGAIN		98.457  
+LOCKDC		-75.000 
+LOCKSHIFT		2.490   
+LOOPGAIN		5.000   
+LOOPTIME		0.250   
+LOOPFILTER		500.000 
+#
+IEEE64_VERSION_CODE 1
+#
+# Shim currents 
+#
+SHIM_SETTING [1 ]  -1055.41937043  
+SHIM_SETTING [2 ]  -922.91099427   
+SHIM_SETTING [3 ]  -697.24874126   
+SHIM_SETTING [4 ]  -4774.18409132  
+SHIM_SETTING [5 ]  -2896.88444631  
+SHIM_SETTING [6 ]  -1509.92400000  
+SHIM_SETTING [7 ]  12360.40400000  
+SHIM_SETTING [8 ]  5238.05300000   
+SHIM_SETTING [9 ]  85.32900000     
+SHIM_SETTING [10]  15581.34100000  
+SHIM_SETTING [11]  -2381.63400000  
+SHIM_SETTING [12]  -1308.74000000  
+SHIM_SETTING [13]  4696.69700000   
+SHIM_SETTING [14]  357.86900000    
+SHIM_SETTING [15]  2763.23500000   
+SHIM_SETTING [16]  -3230.85600000  
+SHIM_SETTING [17]  -2047.00900000  
+SHIM_SETTING [18]  2324.89500000   
+SHIM_SETTING [19]  4630.81900000   
+SHIM_SETTING [20]  -1371.94100000  
